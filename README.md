@@ -55,13 +55,12 @@ The foundation of data structures. Master array manipulation, searching, sorting
 
 </details>
 
-#### Phase 0: Array Problems
+#### Phase 0:Basic Array Problems
 <details>
 <summary><b>🎯 Basic Array Problems & Solutions</b></summary>
 
-- **[Basic Array Problems](ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/Basic_Array_Problems_Python_DSA.ipynb)**
-  - Problem 2: Move zeros to end(ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/2.Move zeroes to end.py)
-  - Problem 2: Reverse an array
+  - Problem 1: [Move zeros to end](ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/2.Move%20zeroes%20to%20end.py)
+  - Problem 2: [RotatingArray](ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/3.RotatingArray.py)
   - Problem 3: Find duplicate elements
   - Problem 4: Linear search implementation
   - Problem 5: Array rotation
