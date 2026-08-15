@@ -52,12 +52,6 @@ The foundation of data structures. Master array manipulation, searching, sorting
 <summary><b>📖 Fundamentals & Core Concepts</b></summary>
 
 - **[Array Fundamentals](ARRAY/Phase%200%20—%20Absolute%20Basics/ArrayFundamental.ipynb)**
-  - What are arrays?
-  - Array vs List in Python
-  - Memory allocation and indexing
-  - Basic operations (create, access, modify, delete)
-  - Array slicing and operations
-  - Multi-dimensional arrays
 
 </details>
 
