@@ -60,7 +60,7 @@ The foundation of data structures. Master array manipulation, searching, sorting
 <summary><b>🎯 Basic Array Problems & Solutions</b></summary>
 
 - **[Basic Array Problems](ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/Basic_Array_Problems_Python_DSA.ipynb)**
-  - Problem 1: Find the maximum element
+  - Problem 2: Move zeros to end(ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/2.Move zeroes to end.py)
   - Problem 2: Reverse an array
   - Problem 3: Find duplicate elements
   - Problem 4: Linear search implementation
