@@ -62,7 +62,7 @@ The foundation of data structures. Master array manipulation, searching, sorting
   - Problem 1: [Move zeros to end](ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/1.Move%20zeroes%20to%20end.py)
   - Problem 2: [RotatingArray](ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/2.RotatingArray.py)
   - Problem 3: [Find Frequency](ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/3.Find_frequency.py)
-  - Problem 4: Linear search implementation
+  - Problem 4: [Find Duplicates](ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/4.Find_duplicate.py)
   - Problem 5: Array rotation
   - Problem 6: Second largest element
   - Problem 7: Check if array is sorted
