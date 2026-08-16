@@ -66,7 +66,7 @@ The foundation of data structures. Master array manipulation, searching, sorting
   - Problem 5: [Find missing numbers](ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/5.Find_Missing_Number.py)
   - Problem 6: [Contain duplicate or not](ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/6.ContainDuplicateOrNot.py)
   - Problem 7: [Binary Search](ARRAY/Phase%200%20—%20Absolute%20Basics/Problems/7.BinarySearch.py)
-  - Problem 8: Move zeros to end
+  - Problem 8:
   - And more...
 
 </details>
